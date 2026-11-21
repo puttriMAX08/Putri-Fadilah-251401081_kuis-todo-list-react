@@ -21,11 +21,31 @@ Data dummy dan dikelola dengan React State, sehingga setiap perubahan langsung t
 
 ## Screenshot
 
-| Daftar tugas | Tambah tugas |
-| ![Daftar](screenshots/semua.png) | | ![Daftar](screenshots/todo.png) | | ![Daftar](screenshots/inprogress.png) | | ![Daftar](screenshots/done.png) | ![Tambah](screenshots/tambah1.png) | ![Tambah](screenshots/tambah2.png) |
+### Daftar tugas
+![Semua tugas](screenshots/semua.png)
+![Status to-do](screenshots/todo.png)
+![Status in progress](screenshots/inprogress.png)
+![Status done](screenshots/done.png)
 
-| Detail tugas | Ubah tugas |
-| ![Detail](screenshots/detail.png) | ![Ubah](screenshots/ubah.png) |
+### Tambah tugas
+![Form tambah](screenshots/form_tambah.png)
+![Hasil tambah1](screenshots/tambah1.png)
+![Hasil tambah2](screenshots/tambah2.png)
 
-| Konfirmasi hapus | Tampilan kecil | Cari |
-| ![Hapus](screenshots/validasi_hapus.png) | | ![Hapus](screenshots/dihapus.png) | ![Kecil](screenshots/kecil.png) | ![Cari](screenshots/cari.png) | ![Cari](screenshots/cari_id1.png) | ![Cari](screenshots/cari_id2.png) | ![Cari](screenshots/cari_id3.png) | ![Cari](screenshots/cari_id6.png) |
+### Detail dan ubah tugas
+![Detail](screenshots/detail.png)
+![Ubah](screenshots/ubah.png)
+
+### Hapus tugas
+![Konfirmasi hapus](screenshots/validasi_hapus.png)
+![Setelah dihapus](screenshots/dihapus.png)
+
+### Pencarian dan tampilan kecil
+![Cari judul](screenshots/cari.png)
+![Tampilan kecil](screenshots/kecil.png)
+
+### Detail berdasarkan id
+![id 1](screenshots/cari_id1.png)
+![id 2](screenshots/cari_id2.png)
+![id 3](screenshots/cari_id3.png)
+![id 6](screenshots/cari_id6.png)
