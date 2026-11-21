@@ -27,5 +27,5 @@ Data dummy dan dikelola dengan React State, sehingga setiap perubahan langsung t
 | Detail tugas | Ubah tugas |
 | ![Detail](screenshots/detail.png) | ![Ubah](screenshots/ubah.png) |
 
-| Konfirmasi hapus | Tampilan kecil |
-| ![Hapus](screenshots/validasi_hapus.png) | | ![Hapus](screenshots/dihapus.png) | ![Hapus](screenshots/cari.png) | ![Kecil](screenshots/kecil.png) |
+| Konfirmasi hapus | Tampilan kecil | Cari |
+| ![Hapus](screenshots/validasi_hapus.png) | | ![Hapus](screenshots/dihapus.png) | ![Kecil](screenshots/kecil.png) | ![Cari](screenshots/cari.png) | ![Cari](screenshots/cari_id1.png) | ![Cari](screenshots/cari_id2.png) | ![Cari](screenshots/cari_id3.png) | ![Cari](screenshots/cari_id6.png) |
